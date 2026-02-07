@@ -1,0 +1,8 @@
+### debloat, optimize and customize your Windows
+## WINHANCE
+irm "https://get.winhance.net" | iex
+
+## Chris Titus Tech
+iwr -useb https://christitus.com/win | iex
+# oppure
+irm christitus.com/win | iex
